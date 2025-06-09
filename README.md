@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hey! Joshil Roshan Pinto here...
 
-<!--
-**codebuddyjr/codebuddyjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd Year B.Tech Student @ PES University  
+🧠 Major in Computer Science - AI & ML  
+🚀 Passionate about AI, Startups, and Tech Innovation  
+💼 Actively looking for Internships & Collaborations!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect with me
+[Instagram](https://www.instagram.com/joshilroshanpinto?utm_source=ig_web_button_share_sheet&igsh=ODdmZWVhMTFiMw==) • [LinkedIn](https://www.linkedin.com/in/joshil-roshan-pinto/) • [Email](joshilroshan115@gmail.com)
+
+---
+
+## 💻 Tech Stack
+
+- 💡 Languages: Python, C, SQL 
+- 🧠 AI/ML: TensorFlow, Keras, NumPy, Pandas, Matplotlib  
+- 🛠 Tools: Git, GitHub 
+- 🎨 Design: Canva
