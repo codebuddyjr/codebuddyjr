@@ -108,8 +108,6 @@ I enjoy working at the intersection of AI research and software engineering — 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/joshil-roshan-pinto/)
 
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/joshilroshanpinto/)
-
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:joshilroshan115@gmail.com)
 
 ---
