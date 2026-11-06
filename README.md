@@ -23,6 +23,13 @@
 
 ---
 
+## A VERSE TO LIVE BY
+
+> "For I know the plans I have for you," declares the Lord,
+> "plans to prosper you and not to harm you, plans to give you hope and a future."
+>
+> **— Jeremiah 29:11**
+
 ## `01` / WHO AM I?
 
 ```python
@@ -59,17 +66,14 @@ I enjoy experimenting with new ideas, exploring research, and turning concepts i
 
 ---
 
-## `02` / CURRENTLY BUILDING
+## `02` / WHAT DRIVES ME
 
-<div align="center">
+I enjoy working at the intersection of:
 
-| 🔬 Research | ⚡ Engineering | 🧠 Exploration |
-|:---:|:---:|:---:|
-| Multi-Modal Drone Surveillance | Distributed File Systems | LLMs & RAG |
-| Computer Vision | Container Technologies | AI Automation |
-| Safe Route Recommendation | Backend Systems | New AI Applications |
-
-</div>
+- **Artificial Intelligence** — Turning data into intelligent decisions.
+- **Research & Experimentation** — Exploring ideas, testing hypotheses, and learning through implementation.
+- **Systems & Infrastructure** — Understanding how things work beneath the surface.
+- **Building Products** — Turning interesting ideas into usable applications.
 
 ---
 
@@ -92,7 +96,7 @@ I enjoy experimenting with new ideas, exploring research, and turning concepts i
 
 ### BACKEND / DATABASES / INFRASTRUCTURE
 
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,postgres,mysql,docker,aws,linux,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,mysql,docker,aws,linux,git,github&theme=dark" />
 
 ### OTHER TECHNOLOGIES
 
@@ -181,23 +185,9 @@ I enjoy experimenting with new ideas, exploring research, and turning concepts i
 
 ---
 
-## `06` / GITHUB ANALYTICS
 
-<div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=codebuddyjr&show_icons=true&hide_border=true&bg_color=0B0B12&title_color=A855F7&text_color=E5E7EB&icon_color=22D3EE&ring_color=C4F566&include_all_commits=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebuddyjr&layout=compact&hide_border=true&bg_color=0B0B12&title_color=A855F7&text_color=E5E7EB" />
-
-<br/>
-
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=codebuddyjr&hide_border=true&background=0B0B12&ring=A855F7&fire=C4F566&currStreakLabel=22D3EE&sideLabels=E5E7EB&currStreakNum=E5E7EB&sideNums=E5E7EB&dates=9CA3AF" />
-
-</div>
-
----
-
-## `07` / BEYOND THE TERMINAL
+## `06` / BEYOND THE TERMINAL
 
 Not everything happens in code.
 
@@ -208,6 +198,8 @@ I enjoy exploring different interests, learning from people, and documenting thi
 ---
 
 <div align="center">
+
+---
 
 ### CONNECT. COLLABORATE. CREATE.
 
